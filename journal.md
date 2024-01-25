@@ -137,3 +137,16 @@ converting old jsx files into new tsx files (prototype)
 Figma Design update final
 Fixing the table-assigned-to-me
 And pushing it on my branch in git
+
+
+### Date: Jan 18th
+
+Fixing table assigned to me
+The assigned to me table was in the wrong place
+i.e it was supposed to be under tickets label but
+I placed it under a different place
+
+
+
+### Date: Jan 19th
+Study documentations on authentication
