@@ -159,6 +159,33 @@ Authentication verifies the identity of a user,
 
  So, authentication says you have the 'id' so you are
  a user. It recognises everyone with the 'id' as a user.
- 
+
  But authorization checks if your 'id' has the 
  is able to access certain functions or not.
+
+
+
+### Date: Jan 21st
+
+Tanstack react-query
+tanstack is a data fetching library used in the 
+web applications.
+It makes fetching, caching, sychronizing and updating server 
+state easy.
+
+used as: @tanstack/react-query
+in react
+
+
+
+
+Tanstack react-query
+Node.js started
+
+
+
+
+"Node js, Nodemon, simple (req, res)
+Api connecting for table-assigned"
+"Express. js get, post
+Calling data from api"
