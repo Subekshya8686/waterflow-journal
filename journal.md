@@ -189,7 +189,25 @@ a browser.
 
 
 
-"Node js, Nodemon, simple (req, res)
-Api connecting for table-assigned"
-"Express. js get, post
-Calling data from api"
+### Date: 23rd Jan
+
+Node js, Nodemon, simple (req, res)
+Nodemon is live a live server.
+Helps develop node.js based applications.
+Restarts when changes in directory are detected.
+
+
+Api connecting for table-assigned
+Till now the api endpoint was not connected to 
+the waterflowtechnology api point. 
+After connecting it, I was assigned to show the data 
+from the backend to the front end table
+
+
+
+
+### Date: 24th Jan
+Express. js get, post
+
+
+Calling data from api
