@@ -177,11 +177,15 @@ used as: @tanstack/react-query
 in react
 
 
-
+### Date: 22nd Jan
 
 Tanstack react-query
 Node.js started
 
+
+Node is an open source and cross platform
+runtime environment for executing JS code outside
+a browser.
 
 
 
