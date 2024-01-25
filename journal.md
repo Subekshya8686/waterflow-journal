@@ -150,3 +150,15 @@ I placed it under a different place
 
 ### Date: Jan 19th
 Study documentations on authentication
+
+We were given the overview of the backend we will
+have to learn. So this is about that.
+In general,
+Authentication verifies the identity of a user,
+ while authorization determines the access level based on that identity.
+
+ So, authentication says you have the 'id' so you are
+ a user. It recognises everyone with the 'id' as a user.
+ 
+ But authorization checks if your 'id' has the 
+ is able to access certain functions or not.
